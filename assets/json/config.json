@@ -1,0 +1,384 @@
+{
+  "webName": "gsou导航",
+  "background": "https://cdn.pixabay.com/photo/2022/02/28/15/28/sea-7039471_960_720.jpg",
+  "copyRight": "",
+  "top": [
+    {
+      "name": "博客",
+      "icon": "logo.png",
+      "link": "https://www.gstory.cn"
+    },
+    {
+      "name": "源码",
+      "icon": "",
+      "link": "https://github.com/gstory0404/gsou"
+    }
+  ],
+  "search": [
+    {
+      "name": "Google",
+      "hint": "Google搜索",
+      "url": "https://www.google.com.hk/search?q="
+    },
+    {
+      "name": "百度",
+      "hint": "百度一下",
+      "url": "https://www.baidu.com/s?wd="
+    },
+    {
+      "name": "Bing",
+      "hint": "必应搜索",
+      "url": "https://cn.bing.com/search?q="
+    }
+  ],
+  "topic": [
+    {
+      "name": "常用",
+      "icon": "hot.png",
+      "data": [
+        {
+          "name": "Gstory's Blog",
+          "icon": "",
+          "link": "https://www.gstory.cn",
+          "tips": "Gstory的博客"
+        },
+        {
+          "name": "GitHub",
+          "icon": "github.png",
+          "link": "https://github.com/",
+          "tips": "github仓库"
+        },
+        {
+          "name": "Gitee",
+          "icon": "gitee.png",
+          "link": "https://gitee.com/",
+          "tips": "gitee仓库"
+        },
+        {
+          "name": "bejson",
+          "icon": "bejson.png",
+          "link": "https://www.bejson.com/explore/index_new/",
+          "tips": "开发常用在线工具"
+        }
+      ]
+    },
+    {
+      "name": "技术开发平台",
+      "icon": "",
+      "data": [
+        {
+          "name": "腾讯开放平台",
+          "icon": "opentencent.png",
+          "link": "https://open.tencent.com/",
+          "tips": "腾讯开放平台"
+        },
+        {
+          "name": "360开放平台",
+          "icon": "open360.png",
+          "link": "https://dev.360.cn/",
+          "tips": "360开放平台"
+        },
+        {
+          "name": "bugly",
+          "icon": "bugly.png",
+          "link": "https://bugly.qq.com/v2/",
+          "tips": "bugly开放平台"
+        },
+        {
+          "name": "极光",
+          "icon": "jiguang.png",
+          "link": "https://www.jiguang.cn/",
+          "tips": "极光开放平台"
+        },
+        {
+          "name": "微博",
+          "icon": "weibo.png",
+          "link": "https://open.weibo.com/",
+          "tips": "微博开放平台"
+        },
+        {
+          "name": "高德",
+          "icon": "gaode.png",
+          "link": "https://lbs.amap.com/",
+          "tips": "高德开放平台"
+        },
+        {
+          "name": "友盟",
+          "icon": "umeng.png",
+          "link": "https://www.umeng.com/",
+          "tips": "友盟开放平台"
+        },
+        {
+          "name": "微信",
+          "icon": "wechat.png",
+          "link": "https://open.weixin.qq.com/",
+          "tips": "微博开放平台"
+        },
+        {
+          "name": "QQ互联",
+          "icon": "qq.png",
+          "link": "https://connect.qq.com/index.html",
+          "tips": "QQ开放平台"
+        },
+        {
+          "name": "百度统计",
+          "icon": "baidutongji.png",
+          "link": "https://tongji.baidu.com/",
+          "tips": "百度数据统计平台"
+        },
+        {
+          "name": "穿山甲",
+          "icon": "chuanshanjia.png",
+          "link": "https://www.csjplatform.com/",
+          "tips": "字节跳动穿山甲广告分发平台"
+        },
+        {
+          "name": "百青藤",
+          "icon": "baidu.png",
+          "link": "https://union.baidu.com/bqt/#/",
+          "tips": "百度广告分发平台"
+        },
+        {
+          "name": "优量汇",
+          "icon": "youlianghui.png",
+          "link": "https://adnet.qq.com/",
+          "tips": "腾讯广告分发平台"
+        },
+        {
+          "name": "Firebase",
+          "icon": "https://www.gstatic.cn/devrel-devsite/prod/v70c9aa38be5a41f2acdfd6deb7424dc7b523d8a488274535f707585ca8d2cdd3/firebase/images/favicon.png",
+          "link": "https://firebase.google.cn/",
+          "tips": "google firebase"
+        },
+        {
+          "name": "Google Play",
+          "icon": "https://www.gstatic.com/images/branding/product/1x/play_devconsole_32dp.png",
+          "link": "https://play.google.com/console",
+          "tips": "google play"
+        }
+      ]
+    },
+    {
+      "name": "分发平台",
+      "icon": "",
+      "data": [
+        {
+          "name": "蒲公英",
+          "icon": "pgyer.png",
+          "link": "https://www.pgyer.com/",
+          "tips": "蒲公英测试分发"
+        }
+      ]
+    },
+    {
+      "name": "开发者平台",
+      "icon": "",
+      "data": [
+        {
+          "name": "华为开发者平台",
+          "icon": "huawei.png",
+          "link": "https://developer.huawei.com/cn/",
+          "tips": "华为开发者平台"
+        },
+        {
+          "name": "Google开发者平台",
+          "icon": "googledev.png",
+          "link": "https://developers.google.com/",
+          "tips": "Google开发者平台"
+        },
+        {
+          "name": "Apple开发者平台",
+          "icon": "googledev.png",
+          "link": "https://developer.apple.com/account/",
+          "tips": "Apple开发者平台"
+        }
+      ]
+    },
+    {
+      "name": "免费资源",
+      "icon": "",
+      "data": [
+        {
+          "name": "pickfree",
+          "icon": "http://www.dingdangsheji.com/pickfree/wp-content/uploads/sites/6/2019/11/logo-fill.png",
+          "link": "http://www.pickfree.cn/",
+          "tips": "免费资源汇总"
+        },
+        {
+          "name": "iconfont",
+          "icon": "alishiliang.png",
+          "link": "https://www.iconfont.cn/",
+          "tips": "阿里矢量图"
+        },
+        {
+          "name": "爱给网",
+          "icon": "aigei.png",
+          "link": "https://www.aigei.com/",
+          "tips": "游戏音乐、图标、地图等素材"
+        }
+      ]
+    },
+    {
+      "name": "好用工具",
+      "icon": "",
+      "data": [
+        {
+          "name": "图标工场",
+          "icon": "tubiaogc.png",
+          "link": "https://icon.wuruihong.com/",
+          "tips": "图片裁剪工具"
+        },
+        {
+          "name": "docsmall",
+          "icon": "docsmall.png",
+          "link": "https://docsmall.com/",
+          "tips": "图片压缩、pdf处理"
+        },
+        {
+          "name": "改图宝",
+          "icon": "gaitubao.png",
+          "link": "https://www.gaitubao.com/",
+          "tips": "快速、简单的在线修改图片工具"
+        },
+        {
+          "name": "flexclip",
+          "icon": "flexclip.png",
+          "link": "https://www.flexclip.com/",
+          "tips": "视频压缩、制作、处理"
+        },
+        {
+          "name": "converter",
+          "icon": "converter.png",
+          "link": "https://converter.app/cn/mp4-gif/",
+          "tips": "视频转gif"
+        },
+        {
+          "name": "pdf24",
+          "icon": "https://tools.pdf24.org/static/img/pdf24.png?v=5cf19973",
+          "link": "https://tools.pdf24.org/zh/",
+          "tips": "免费且易于使用的在线PDF工具"
+        },
+        {
+          "name": "converter",
+          "icon": "converter.png",
+          "link": "https://converter.app/cn/mp4-gif/",
+          "tips": "视频转gif"
+        },
+        {
+          "name": "nginx配置",
+          "icon": "toolscat.png",
+          "link": "https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN",
+          "tips": "在线生成nginx配置工具"
+        }
+      ]
+    },
+    {
+      "name": "技术文档",
+      "icon": "",
+      "data": [
+        {
+          "name": "Android文档",
+          "icon": "android.png",
+          "link": "https://developer.android.com/guide/components/broadcasts?hl=zh-cn",
+          "tips": "Android在线文档"
+        },
+        {
+          "name": "kotlin文档",
+          "icon": "kotlin.png",
+          "link": "https://www.kotlincn.net/docs/reference/",
+          "tips": "kotlin官方文档"
+        },
+        {
+          "name": "Flutter文档",
+          "icon": "flutter.png",
+          "link": "https://flutter.cn/",
+          "tips": "Flutter中文文档"
+        },
+        {
+          "name": "Go文档",
+          "icon": "topgoer.png",
+          "link": "https://www.topgoer.com/",
+          "tips": "GO语言topgoer文档"
+        },
+        {
+          "name": "swift文档",
+          "icon": "swift.png",
+          "link": "https://swift.bootcss.com/",
+          "tips": "swift文档"
+        },
+        {
+          "name": "gorm文档",
+          "icon": "https://g.csdnimg.cn/static/logo/favicon32.ico",
+          "link": "https://learnku.com/docs/gorm/v2",
+          "tips": "gorm文档"
+        },
+        {
+          "name": "docsify文档",
+          "icon": "https://docsify.js.org/_media/favicon.ico",
+          "link": "https://docsify.js.org/#/zh-cn/?id=docsify",
+          "tips": "docsify文档"
+        }
+      ]
+    },
+    {
+      "name": "托管仓库",
+      "icon": "",
+      "data": [
+        {
+          "name": "Github",
+          "icon": "github.png",
+          "link": "https://github.com/",
+          "tips": "Github"
+        },
+        {
+          "name": "Gitee",
+          "icon": "gitee.png",
+          "link": "https://gitee.com/",
+          "tips": "Gitee"
+        },
+        {
+          "name": "DockerHub",
+          "icon": "dockerhub.png",
+          "link": "https://hub.docker.com/",
+          "tips": "DockerHub"
+        }
+      ]
+    },
+    {
+      "name": "网盘",
+      "icon": "",
+      "data": [
+        {
+          "name": "阿里云盘",
+          "icon": "alipan.png",
+          "link": "https://www.aliyundrive.com/",
+          "tips": "阿里云盘"
+        },
+        {
+          "name": "百度网盘",
+          "icon": "baidupan.png",
+          "link": "https://pan.baidu.com/",
+          "tips": "百度网盘"
+        }
+      ]
+    },
+    {
+      "name": "云服务器",
+      "icon": "",
+      "data": [
+        {
+          "name": "阿里云",
+          "icon": "alicloud.png",
+          "link": "https://account.aliyun.com/",
+          "tips": "阿里云"
+        },
+        {
+          "name": "腾讯云",
+          "icon": "tencentcloud.png",
+          "link": "https://cloud.tencent.com/",
+          "tips": "腾讯云"
+        }
+      ]
+    }
+  ]
+}
