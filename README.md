@@ -6,4 +6,4 @@ Flutter开发静态导航网站
 
 ## [Flutter部署到Github Action](https://www.gstory.cn/?p=7)
 
-## [Flutter通过Ngxin部署到服务器](https://www.gstory.cn/?p=40)
+## [Flutter通过Nginx部署到服务器](https://www.gstory.cn/?p=40)
