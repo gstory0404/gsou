@@ -1,5 +1,6 @@
-# gsou
-Flutter开发静态导航网
+# gsou导航
+
+Flutter开发静态导航网站
 
 ## 配置信息
 [assets/json/config.json](https://github.com/gstory0404/gsou/blob/master/assets/json/config.json)
